@@ -23,6 +23,6 @@ Please also visit my other portfolios for visualization and model automation pro
 #### Advanced Level
 -
 
-## Inspiration
+### Inspiration
 Project inspired by [Udemy](https://www.udemy.com/course/100-days-of-code/)'s 100 Days Of Code challenge.
 
