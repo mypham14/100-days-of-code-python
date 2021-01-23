@@ -9,18 +9,18 @@ Please also visit my other portfolios for visualization and model automation pro
 - [**Tableau**](https://public.tableau.com/profile/my.tra.pham)
 - [**Azure ML**](https://gallery.azure.ai/Home/Author?authorid=C64394424E5213619852FA330E95098630EC7C9F58B8E7FE8C2432189A92A3A7&skip=0&categories=%5B%229%22%5D&orderby=trending%20desc&tabtype=2&entityskip=0&collectionskip=0)
 
+*Tools: pandas, numpy, matplotlib, seaborn, tensorflow, keras, beautifulsoup, requests, scikit-learn, statsmodels.tsa, mysql.connector*
+
 ### Contents
 #### Beginner Level
-- [**Day 1: Band Name Generator**](https://github.com/mypham14/stock-price-prediction): 
-- [**Day 2: Tip Calculator**](https://github.com/mypham14/heart-disease-prediction/blob/master/README.md): 
-- [**Day 3: Treasure Island**](https://github.com/mypham14/bike-rental-prediction): 
+- [**Day 1: Band Name Generator**](https://github.com/mypham14/band-name-generator): generate band names by combining text inputs from user
+- [**Day 2: Tip Calculator**](https://github.com/mypham14/tip-calculator): automatically calculate tip amount based on user's input amounts
+- [**Day 3: Treasure Island**](https://github.com/mypham14/treasure-island): 
 
 #### Intermediate Level
 -
 
 #### Advanced Level
 -
-
-*Tools: pandas, numpy, matplotlib, seaborn, tensorflow, keras, beautifulsoup, requests, scikit-learn, statsmodels.tsa, mysql.connector*
 
 
