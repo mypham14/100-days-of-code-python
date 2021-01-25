@@ -17,6 +17,7 @@ Please also visit my other portfolios for visualization and model automation pro
 - [**Day 2: Tip Calculator**](https://github.com/mypham14/tip-calculator): automatically calculate tip amount based on user's input amounts
 - [**Day 3: Treasure Island**](https://github.com/mypham14/treasure-island): create a treasure island game using if statement logic
 - [**Day 4: Rock, Paper, Scissors**](https://github.com/mypham14/rock-paper-scissors): randomly generate the result for the Rock, Paper, Scissors game to see if you can win
+- [**Day 5: Password Generator**](https://github.com/mypham14/password-generator): create a secure password with your customized rules
 
 #### Intermediate Level
 -
